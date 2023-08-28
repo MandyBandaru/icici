@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.
+</p>
+
+<p>
+This paragraph
+contains      a lot of spaces
+in the source     code,
+but the    browser 
+ignores it.
+</p>
+
+<p>
+The number of lines in a paragraph depends on the size of the browser window. If you resize the browser window, the number of lines in this paragraph will change.Reliance AGM 2023 Live Updates: Reliance Industries Limited's (RIL) 46th annual general meeting (AGM) commenced at 2pm (as scheduled) on Monday, and is currently underway, with MD and Chairman Mukesh Ambani opening the proceedings. The event is taking place through video-conferencing. It is also being live-streamed across various social media platforms, including YouTube. 
+
+RIL chairmperson Mukesh Ambani speaking at the AGM.
+RIL chairmperson Mukesh Ambani speaking at the AGM.
+Ambani's children, Isha and Akash, who hold official positions in the conglomerate, will also address the AGM. While the trio will unveil RIL's business blueprint for the future, of particular interest will be announcements related to Future Retail and Jio IPOs (initial public offering) and 5G tariff options.
+</p>
+
+</body>
+</html>
+
